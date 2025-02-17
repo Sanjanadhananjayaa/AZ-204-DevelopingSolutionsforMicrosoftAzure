@@ -74,6 +74,10 @@ To adjust the zoom level for the environment page, click the **A↕ : 100%** ico
    
 1. If a **Welcome to Microsoft Azure** popup window appears, click **Cancel** to skip the tour.
 
+1. If Action required pop-up window appears, click on **Ask later**.
+
+    ![](./media/asklater-1.png)
+
 ## Steps to Proceed with MFA Setup if "Ask Later" Option is Not Visible
 
 1. At the **"More information required"** prompt, select **Next**.
